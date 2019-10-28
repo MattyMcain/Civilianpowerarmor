@@ -1,9 +1,8 @@
 {
     "type": "MOD_INFO",
-    "mod_type": "SUPPLEMENTAL",
     "ident": "CIVILIANPOWAAA",
     "name": "CIVILIAN POWER ARMOR",
     "description": "Adds a few power armor items",
-    "author": "MATTYMCAIN",
+    "authors": "MATTYMCAIN",
     "path": ""
 }
