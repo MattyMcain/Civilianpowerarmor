@@ -1,6 +1,6 @@
 [
   {
-    "id": "Civilian_depower_armor",
+    "id": "civilian_depower_armor",
     "type": "ARMOR",
     "category": "armor",
     "name": "Commercial Depowered armor",
@@ -25,7 +25,7 @@
     "flags": [ "WATERPROOF", "STURDY"]
   },
   {
-    "id": "power_armor_Civillian",
+    "id": "power_armor_civilian",
     "type": "ARMOR",
     "category": "armor",
     "name": "Commercial power armor",
