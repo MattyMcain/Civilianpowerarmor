@@ -14,7 +14,7 @@
       [ "gown", 50 ],
       [ "long_glove_white", 30 ],
       [ "breeches", 10 ],
-      ["Civillian_depower_armor", 3],
-      ["power_armor_Civillian", 2]
+      ["civilian_depower_armor", 3],
+      ["power_armor_civilian", 2]
     ]
   }
